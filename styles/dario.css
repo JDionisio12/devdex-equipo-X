@@ -1,0 +1,18 @@
+body{
+    background-image: linear-gradient(to right,aquamarine,green);
+    color: blue;
+    font-size: 32px;
+}
+li:nth-child(2){
+    list-style:none;
+}
+img{
+    width: 500px;
+}
+li:hover{
+    color: black;
+    text-decoration: underline;
+}
+a{
+    color: purple;
+}
